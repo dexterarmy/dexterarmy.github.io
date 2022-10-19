@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dexterarmy.github.io/static/css/main.a9fb081f.css",
-    "main.js": "/dexterarmy.github.io/static/js/main.5c9cfced.js",
-    "static/js/787.1ed0c42c.chunk.js": "/dexterarmy.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/ad-search.png": "/dexterarmy.github.io/static/media/ad-search.312c25be6cfeae84dbea.png",
-    "static/media/map.png": "/dexterarmy.github.io/static/media/map.b196b38fcb7a151ff758.png",
-    "static/media/bankist.png": "/dexterarmy.github.io/static/media/bankist.8074d0d4c22567460318.png",
-    "static/media/todo.png": "/dexterarmy.github.io/static/media/todo.f999f16ca07e9db2d1e5.png",
-    "static/media/my.jpeg": "/dexterarmy.github.io/static/media/my.0ad8501aa5a47a5595b9.jpeg",
-    "index.html": "/dexterarmy.github.io/index.html",
-    "main.a9fb081f.css.map": "/dexterarmy.github.io/static/css/main.a9fb081f.css.map",
-    "main.5c9cfced.js.map": "/dexterarmy.github.io/static/js/main.5c9cfced.js.map",
-    "787.1ed0c42c.chunk.js.map": "/dexterarmy.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.a9fb081f.css",
+    "main.js": "/static/js/main.ef8969d7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ad-search.png": "/static/media/ad-search.312c25be6cfeae84dbea.png",
+    "static/media/map.png": "/static/media/map.b196b38fcb7a151ff758.png",
+    "static/media/bankist.png": "/static/media/bankist.8074d0d4c22567460318.png",
+    "static/media/todo.png": "/static/media/todo.f999f16ca07e9db2d1e5.png",
+    "static/media/my.jpeg": "/static/media/my.0ad8501aa5a47a5595b9.jpeg",
+    "index.html": "/index.html",
+    "main.a9fb081f.css.map": "/static/css/main.a9fb081f.css.map",
+    "main.ef8969d7.js.map": "/static/js/main.ef8969d7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9fb081f.css",
-    "static/js/main.5c9cfced.js"
+    "static/js/main.ef8969d7.js"
   ]
 }
